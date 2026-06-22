@@ -30,6 +30,6 @@
     "eslint-config-prettier": "^6.10.1",
     "mocha": "^11.7.5",
     "mocha-each": "^2.0.1",
-    "prettier": "^2.0.4"
+    "prettier": "^3.8.3"
   }
 }
