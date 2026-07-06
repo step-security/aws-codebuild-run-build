@@ -1,0 +1,18 @@
+{
+   "schema_version": "1",
+   "onboarding_type": "copied",
+   "archived": false,
+   "maintained_action_name": "step-security/aws-codebuild-run-build",
+   "upstream_full_repo_name": "aws-actions/aws-codebuild-run-build",
+   "action_type": "node",
+   "last_release": {
+     "tag_name": "v1.0.19",
+     "created_at": "2026-04-17T06:45:41Z",
+     "published_at": "2026-04-17T13:17:05Z"
+   },
+   "sync": {
+     "ignore_presets": [
+       "defaults_v1"
+     ]
+   }
+ }
